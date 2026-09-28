@@ -1,5 +1,4 @@
 public class GroupChallengeTerminalGame {
-}
 public static void main(String[] args) {
 
     Random random = new Random(); //få tal med noget længere nede
@@ -118,4 +117,5 @@ public static void main(String[] args) {
         }
     }
     scanner.close();
+}
 }
